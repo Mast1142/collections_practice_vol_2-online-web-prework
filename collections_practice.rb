@@ -31,7 +31,7 @@ def remove_non_strings(array)
 end
 
 def count_elements(array)
-  i = 0
+  counts = hash.new
   while array.each do |count, name|
     
 end
