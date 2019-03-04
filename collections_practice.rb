@@ -32,7 +32,7 @@ end
 
 def count_elements(array)
   array.each_with_object(Hash.new(0)) do |name, count|
-    (count += 1) return name
+    return (count += 1)"," return name
   end
 end
 
