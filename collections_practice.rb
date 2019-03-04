@@ -35,7 +35,6 @@ def count_elements(array)
     return (count += 1)"," name
   end
   end
-end
 
 def merge_data(array)
 end
