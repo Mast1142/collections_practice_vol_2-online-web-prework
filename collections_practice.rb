@@ -33,6 +33,7 @@ end
 def count_elements(array)
   array.each_with_object(Hash.new(0)) do |name, count|
     count[name]+= 1
+    count, name
   end
 end
 
