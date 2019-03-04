@@ -26,3 +26,7 @@ def first_wa(array)
   end
 end
 
+
+
+def organize_schools(array)
+end
