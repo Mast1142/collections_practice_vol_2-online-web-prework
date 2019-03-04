@@ -30,10 +30,12 @@ def remove_non_strings(array)
   array.keep_if {|word| word.is_a? String}
 end
 
-
 def count_elements(array)
+
 end
+
 def merge_data(array)
 end
+
 def organize_schools(array)
 end
