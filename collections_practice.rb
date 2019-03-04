@@ -27,7 +27,7 @@ def first_wa(array)
 end
 
 def remove_non_strings(array)
-  arra.keepif()
+  arra.keepif {|word| word.is
 end
 def count_elements(array)
 end
