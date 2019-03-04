@@ -27,6 +27,8 @@ def first_wa(array)
 end
 
 
+def count_elements(array)
+end
 def merge_data(array)
 end
 def organize_schools(array)
