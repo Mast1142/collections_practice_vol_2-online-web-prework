@@ -34,7 +34,7 @@ def count_elements(array)
   counts = hash.new(0)
   array.each do |count, name|
     count[name]+= 1, name ;total
-    
+  end
 end
 
 def merge_data(array)
